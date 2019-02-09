@@ -1,0 +1,7 @@
+classes/
+classestest
+*.sh~
+doc/
+*.aa
+.DS_Store
+
